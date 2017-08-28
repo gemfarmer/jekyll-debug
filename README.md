@@ -1,7 +1,6 @@
 # Jekyll debug
 
-*A Jekyll filter that enables runtime debugging
-*
+*A Jekyll filter that enables runtime debugging.*
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-debug.svg)](https://rubygems.org/gems/jekyll-debug)
 [![Build Status](https://img.shields.io/travis/gemfarmer/jekyll-debug/master.svg)](https://travis-ci.org/gemfarmer/jekyll-debug)
