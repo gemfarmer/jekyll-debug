@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
 
-  spec.add_runtime_dependency "liquid", [">= 2.5", "< 4.0"]
+  spec.add_runtime_dependency "liquid", [">= 2.5", "< 5.0"]
   spec.add_runtime_dependency "pry", '~> 0.10'
   spec.add_runtime_dependency "rb-readline", '~> 0.5'
 
