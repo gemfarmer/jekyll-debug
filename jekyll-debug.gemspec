@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-debug"
   spec.summary       = "A Jekyll filter that enables runtime debugging."
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Brian Hedberg"]
   spec.email         = "briansheahedberg@gmail.com"
   spec.homepage      = "https://github.com/gemfarmer/jekyll-debug"
